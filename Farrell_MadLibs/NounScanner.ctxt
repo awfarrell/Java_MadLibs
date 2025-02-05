@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=NounScanner
+comment1.params=
+comment1.target=NounScanner()
+comment2.params=
+comment2.target=java.util.ArrayList\ getNounList()
+comment2.text=\r\n\ getNounList,\ a\ method\ to\ grab\ the\ list\ of\ nouns\r\n\ @return\ the\ list\ of\ nouns,\ an\ Array\ List\ of\ type\ String\r\n
+numComments=3
